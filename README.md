@@ -19,7 +19,7 @@ My Music Player is a React based web app that plays the requested song along wit
 
 ## Live Demo
 
-![]()
+![](https://github.com/Chetna03/Music-Player/blob/main/src/musicvideo.wmv)
 
 ## How to install and run
 
