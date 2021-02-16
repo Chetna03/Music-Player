@@ -2,7 +2,7 @@
 
 My Music Player is a React based web app that plays the requested song along with its album art and lyrics. It makes use of APIs for requesting the data and songs.
 
-<img src="" width="80%" height="80%">
+<img src="https://github.com/Chetna03/Music-Player/blob/main/src/app.PNG" width="80%" height="80%">
 
 ## Features
 
