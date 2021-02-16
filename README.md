@@ -22,6 +22,8 @@ My Music Player is a React based web app that plays the requested song along wit
 <!--![](https://github.com/Chetna03/Music-Player/blob/main/src/musicvideo.wmv)-->
 <!--[![Little red riding hood](https://github.com/Chetna03/Music-Player/blob/main/src/app.PNG)](https://github.com/Chetna03/Music-Player/blob/main/src/musicvideo.wmv "Little red riding hood - Click to Watch!")-->
 
+![](https://github.com/Chetna03/Music-Player/blob/main/src/ezgif.com-gif-maker.gif)
+
 ## How to install and run
 
 After cloning this repo, just type:
