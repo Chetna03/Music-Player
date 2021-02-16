@@ -1,0 +1,21 @@
+.footer-box{
+    /* align-self: flex-end; */
+    background-color: #FB9B9D;
+    /* border: 2px solid green; */
+    display: flex;
+    justify-content: center;
+    /* align-items: flex-end; */
+    /* align-self: flex-end; */
+    width: 100%;
+    color: #2b2b26;
+    height: 8vh;
+    /* z-index: -5; */
+}
+
+.inner-box{
+    padding: 10px;
+    font-family: 'Satisfy', cursive;
+    /* font-family: 'Parisienne', cursive; */
+    /* font-family: 'Lovers Quarrel'; */
+    /* font-weight: bolder; */
+}

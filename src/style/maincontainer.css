@@ -1,0 +1,11 @@
+.main-box{
+    /* align-self: flex-end; */
+    /* border: 2px solid yellow; */
+    height: 82vh;
+    display: flex;
+    justify-content: flex-start;
+    /* height: 100%; */
+    /* align-items: stretch; */
+    padding: 20px 0px;
+}
+
