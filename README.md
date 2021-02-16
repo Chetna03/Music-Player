@@ -1,6 +1,36 @@
-# Getting Started with Create React App
+# My Music Player
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+My Music Player is a React based web app that plays the requested song along with its album art and lyrics. It makes use of APIs for requesting the data and songs.
+
+<img src="" width="80%" height="80%">
+
+## Features
+
+* Youtube API provides top 7 links of the song
+* Play/Stop option
+* Album Cover and Lyrics requested using genius-lyrics-api API
+
+## To-Do List
+
+* Controls - Progress Bar, repeat,etc
+* Playlists
+* Highlight the current playing song
+* Improve UI
+
+## Live Demo
+
+![]()
+
+## How to install and run
+
+After cloning this repo, just type:
+
+```
+npm install
+npm start
+```
+
+<!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -67,4 +97,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
